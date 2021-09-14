@@ -1,89 +1,47 @@
-
-
-<h1 align="center">
-Hi, there
-</h1>  
-  
-
-<br/>
-
+<body>
+<h1 align="center">Welcome (づ｡◕‿‿◕｡)づ</h1>
+<br>
 <div align="center">
-  <a href="https://github.com/hoangvu12">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+student;Also+a+self-taught+developer;Always+looking+for+new+things+to+learn&center=true&width=450&height=45"/>
-  </a>
+<img src="https://media4.giphy.com/media/a6pzK009rlCak/giphy.gif">
 </div>
-  
+<br>
+<div>
+<h2 align="center">About me (~˘▾˘)~</h2>
+<li>
+<b>Name:</b> Nguyen Vu</li>
+<li>
+<b>Loves:</b> games, coding, anime
+</li>
+<li>
+<b>Sex:</b> Maie 
+</li>
+<li>
+<b>Hobbies:</b> Web/Mobile Development.
+</li>
+<br>
 
-<br/>  
-
-
-## My Skill Set  
-<table align="center"><tr><td valign="top" width="50%">
-
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<div>
+<img src="https://media2.giphy.com/media/7hW7hXXri33NK/giphy.gif" align="right">
+<h2 align="center">Knowledge ᕦ(ò_óˇ)ᕤ</h2>
+<p>
 </div>
-
-</td><td valign="top" width="50%">
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<div>
+<p align="center"> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/vue%20-%2343853D.svg?&style=for-the-badge&logo=vue&logoColor=white"/><br>
+ <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/React%20-%231572B6.svg?&style=for-the-badge&logo=react&logoColor=white"/><br><br>
+</p>
+<br>
+<h2 align="center">Contact me (>人<)</h2>
+<br>
+<p align="center"><a href="https://www.facebook.com/nguyenvuzxc1" target="_blank"><img src="https://img.shields.io/badge/Facebook%20-%231DA1F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a> <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/VuNguyen%235055%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 </div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
+<br>
+<div>
+<h2 align="center">Thanks for reading (ღ˘⌣˘ღ)</h2>
 <div align="center">
-<a href="https://github.com/hoangvu12" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/nguyenvuzxc1" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hoangvu12&count_private=truea&show_icons=true&theme=dracula&title_color=E9B1F0&bg_color=0,D38312,A83279" align="center" /></div>  
-
-<br/>  
-
-<br/>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=hoangvu12&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-
-
-
+<img src="https://media.giphy.com/media/rPQaG7o8uqMzS/giphy.gif">
+</div>
+<hr>
+</div>
+</div>
+</body>
+``
