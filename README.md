@@ -10,13 +10,13 @@
 <li>
 <b>Name:</b> Nguyen Vu</li>
 <li>
-<b>Loves:</b> games, coding, anime
+<b>Hobbies:</b> Gaming, Coding, anime
 </li>
 <li>
-<b>Sex:</b> Maie 
+<b>Sex:</b> Male 
 </li>
 <li>
-<b>Hobbies:</b> Web/Mobile Development.
+<b>Loves:</b> Web/Mobile Development.
 </li>
 <br>
 
