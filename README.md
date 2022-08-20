@@ -1,5 +1,9 @@
 <body>
 <h1 align="center">Welcome (づ｡◕‿‿◕｡)づ</h1>
+  </br>
+  <div align="center">
+    <img src="profile.svg" width="400" height="400">
+</div>
 <br>
 <div align="center">
 <img src="https://media4.giphy.com/media/a6pzK009rlCak/giphy.gif">
