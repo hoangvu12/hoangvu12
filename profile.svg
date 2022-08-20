@@ -2,7 +2,7 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        body {
+        .global-container {
           width: 100%;
           font-family: Arial, sans-serif;
           font-weight: 900;
@@ -25,35 +25,35 @@
             transform: translate3d(var(--move-initial), 0, 0);
           }
         }
-        body .container {
+        .container {
           width: 100%;
           height: 100vh;
           display: flex;
           place-items: center;
         }
-        body .marquee {
+        .marquee {
           position: relative;
           overflow: hidden;
           --offset: 20vw;
           --move-initial: calc(-25% + var(--offset));
           --move-final: calc(-50% + var(--offset));
         }
-        body .marquee__inner {
+        .marquee__inner {
           width: fit-content;
           display: flex;
           position: relative;
           white-space: nowrap;
         }
-        body .marquee__inner span {
+        .marquee__inner span {
           font-size: 10vw;
           padding: 0 2vw;
           text-transform: uppercase;
         }
-        body .marquee .first {
+        .marquee .first {
           transform: translate3d(var(--move-initial), 0, 0);
           animation: marqueeOne 10s linear infinite;
         }
-        body .marquee .first span {
+        .marquee .first span {
           -webkit-text-stroke: 2px black;
           -webkit-text-fill-color: transparent;
         }
@@ -62,17 +62,20 @@
             -webkit-text-stroke: 3px black;
           }
         }
-        body .marquee .second {
+        .marquee .second {
           transform: translate3d(var(--final-initial), 0, 0);
           animation: marqueeTwo 10s linear infinite;
         }
       </style>
-     <div class="container">
-    <div class="marquee">
-      <div class="marquee__inner first"><span>HOANGVU12</span><span>HOANGVU12</span><span>HOANGVU12</span><span>HOANGVU12</span></div>
-      <div class="marquee__inner second"><span>DEVELOPER</span><span>DEVELOPER</span><span>DEVELOPER</span><span>DEVELOPER</span></div>
-    </div>
-  </div>
+      <div class="global-container">
+             <div class="container">
+      <div class="marquee">
+        <div class="marquee__inner first"><span>HOANGVU12</span><span>HOANGVU12</span><span>HOANGVU12</span><span>HOANGVU12</span></div>
+        <div class="marquee__inner second"><span>DEVELOPER</span><span>DEVELOPER</span><span>DEVELOPER</span><span>DEVELOPER</span></div>
+      </div>
+     </div>
+      </div>
+
     </div>
   </foreignObject>
 </svg>
