@@ -2,7 +2,7 @@
 <h1 align="center">Welcome (づ｡◕‿‿◕｡)づ</h1>
   </br>
   <div align="center">
-    <img src="profile.svg" width="400" height="400">
+    <img src="https://raw.githubusercontent.com/hoangvu12/hoangvu12/45ea6b25de48a1c7ddd897185cd8b5546a6790cf/profile.svg" width="400" height="400">
 </div>
 <br>
 <div align="center">
