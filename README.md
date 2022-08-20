@@ -1,9 +1,6 @@
 <body>
 <h1 align="center">Welcome (づ｡◕‿‿◕｡)づ</h1>
-  </br>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/hoangvu12/hoangvu12/45ea6b25de48a1c7ddd897185cd8b5546a6790cf/profile.svg" width="400" height="400">
-</div>
+
 <br>
 <div align="center">
 <img src="https://media4.giphy.com/media/a6pzK009rlCak/giphy.gif">
@@ -43,6 +40,10 @@
 <h2 align="center">Thanks for reading (ღ˘⌣˘ღ)</h2>
 <div align="center">
 <img src="https://media.giphy.com/media/rPQaG7o8uqMzS/giphy.gif">
+</div>
+    </br>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/hoangvu12/hoangvu12/45ea6b25de48a1c7ddd897185cd8b5546a6790cf/profile.svg" width="400" height="400">
 </div>
 <hr>
 </div>
