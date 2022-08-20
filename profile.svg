@@ -7,11 +7,10 @@
           font-family: Arial, sans-serif;
           font-weight: 900;
           color: #111111;
-          background: #edeee9;
         }
         @keyframes marqueeOne {
           0% {
-            transform: translate3d(var(--move-initial), 0, 0);
+            tranQsform: translate3d(var(--move-initial), 0, 0);
           }
           100% {
             transform: translate3d(var(--move-final), 0, 0);
@@ -48,17 +47,19 @@
           font-size: 10vw;
           padding: 0 2vw;
           text-transform: uppercase;
+          color: white;
+            mix-blend-mode: difference;
         }
         .marquee .first {
           transform: translate3d(var(--move-initial), 0, 0);
           animation: marqueeOne 10s linear infinite;
         }
         .marquee .first span {
-          -webkit-text-stroke: 2px black;
+          -webkit-text-stroke: 2px white;
           -webkit-text-fill-color: transparent;
         }
         @media (min-width: 1024px) {
-          body .marquee .first span {
+          .marquee .first span {
             -webkit-text-stroke: 3px black;
           }
         }
