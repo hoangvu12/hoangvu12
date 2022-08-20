@@ -46,7 +46,6 @@
         .marquee__inner span {
           font-size: 10vw;
           padding: 0 2vw;
-          text-transform: uppercase;
           color: white;
             mix-blend-mode: difference;
         }
@@ -64,6 +63,7 @@
           }
         }
         .marquee .second {
+          text-transform: uppercase;
           transform: translate3d(var(--final-initial), 0, 0);
           animation: marqueeTwo 10s linear infinite;
         }
