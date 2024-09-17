@@ -1,6 +1,6 @@
 # _Hi there 👋_
 
-### I'm Vu or also known as hoangvu12 online. I'm a self-taught web developer
+### I'm Vu or also known as hoangvu12. I'm a self-taught web developer
 
 ## Here is some of the projects I've worked on
 
