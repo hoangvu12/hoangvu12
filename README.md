@@ -34,7 +34,4 @@
 ![Git](https://img.shields.io/badge/-Git-2f1a47?style=flat&logo=git)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-2f1a47?style=flat&logo=github)&nbsp;
 
-
-### Profile views counter? _pog_
-
 ![Profile counter](https://moe-counter.glitch.me/get/@hoangvu12)
